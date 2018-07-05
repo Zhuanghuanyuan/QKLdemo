@@ -12,9 +12,8 @@ jianyiqukuailian.go
 2.导航到此目录并重命名示例文件 mv example.env<br /> 
 3.go run main.go <br />
 4.打开网页浏览器并访问 http://localhost:8080/<br />
-
 5.接着，我们再通过 POSTMAN 来发送一些 POST 请求：{"BPM":50}<br />
 6.刷新 <br />
 
 
-#结果：
+
