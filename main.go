@@ -29,7 +29,7 @@ type Block struct {
 // 定义一个结构表示整个链，最简单的表示形式就是一个 Block 的 slice
 var Blockchain []Block
 
-// Message takes incoming JSON payload for writing heart rate
+
 type Message struct {
 	BPM int
 }
